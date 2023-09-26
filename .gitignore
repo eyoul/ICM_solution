@@ -1,4 +1,4 @@
-virt/
+.virt/
 
 *.pyc
 __pycache__/
